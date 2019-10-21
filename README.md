@@ -1,0 +1,1 @@
+# rebbitmq-using-akka-as-a-consumer
